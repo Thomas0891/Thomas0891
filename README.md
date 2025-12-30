@@ -1,4 +1,4 @@
-![logo](https://github.com/Thomas0891/Thomas0891/blob/main/banner.png)
+![logo](https://github.com/Thomas0891/Thomas0891/blob/main/bann.png)
 # 💫 About Me:
 👋 Hi, I'm Thomas Joseph<br><br>🔭 I’m currently working on:<br>AI & Machine Learning projects including EduGenie – AI Teacher, Disease Prediction Systems, and Computer Vision applications.<br><br>👯 I’m looking to collaborate on:<br>Open-source AI/ML projects, student research ideas, and real-world problem-solving tools using Python.<br><br>🤝 I’m looking for help with:<br>Optimizing ML models, building explainable AI systems, and deploying full-stack AI applications.<br><br>🌱 I’m currently learning:<br>Advanced Machine Learning, Explainable AI, Model Deployment, and Computer Vision.<br><br>💬 Ask me about:<br>Python, Machine Learning, Data Science projects, Streamlit dashboards, and AI project building.<br><br>⚡ Fun fact:<br>I love turning complex problems into simple AI solutions 🚀
 
