@@ -1,33 +1,199 @@
-![logo](https://github.com/Thomas0891/Thomas0891/blob/main/bann.png)
-# 💫 About Me:
-👋 Hi, I'm Thomas Joseph<br><br>🔭 I’m currently working on:<br>AI & Machine Learning projects including EduGenie – AI Teacher, Disease Prediction Systems, and Computer Vision applications.<br><br>👯 I’m looking to collaborate on:<br>Open-source AI/ML projects, student research ideas, and real-world problem-solving tools using Python.<br><br>🤝 I’m looking for help with:<br>Optimizing ML models, building explainable AI systems, and deploying full-stack AI applications.<br><br>🌱 I’m currently learning:<br>Advanced Machine Learning, Explainable AI, Model Deployment, and Computer Vision.<br><br>💬 Ask me about:<br>Python, Machine Learning, Data Science projects, Streamlit dashboards, and AI project building.<br><br>⚡ Fun fact:<br>I love turning complex problems into simple AI solutions 🚀
+Markdown
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thomasjoseph_offical/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-joseph28/) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Thomas-Joseph-725) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ThomasJose44481) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thomasjoseph0891@gmail.com)
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Thomas%20Joseph&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
 
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=👋+Hi%2C+I'm+Thomas+Joseph!;🤖+AI+%26+ML+Engineer;🧠+Building+Intelligent+Systems;🚀+Turning+Ideas+into+AI+Solutions;💡+EduGenie+%7C+Disease+Prediction+%7C+CV" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Thomas0891&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Thomas0891&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas0891&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Thomas0891&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- SOCIAL BADGES -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thomasjoseph_offical/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-joseph28/)
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Thomas-Joseph-725)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ThomasJose44481)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thomasjoseph0891@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Thomas0891&style=for-the-badge&color=667eea&label=PROFILE+VIEWS)](https://github.com/Thomas0891)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Thomas0891&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Thomas0891&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me — In Code
+
+```python
+class ThomasJoseph:
+    def __init__(self):
+        self.name        = "Thomas Joseph"
+        self.role        = "AI & ML Engineer"
+        self.education   = "B.Tech in Computer Science & Engineering"
+        self.interests   = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "Explainable AI",
+            "Full-Stack AI Applications"
+        ]
+        self.current_projects = [
+            "EduGenie – AI Teacher 🎓",
+            "Disease Prediction Systems 🏥",
+            "Computer Vision Applications 👁️"
+        ]
+        self.currently_learning = [
+            "Advanced ML & Deep Learning",
+            "Explainable AI (XAI)",
+            "Model Deployment at Scale",
+            "Computer Vision"
+        ]
+
+    def goal(self):
+        return "🚀 Turn complex problems into elegant AI solutions!"
+
+    def fun_fact(self):
+        return "I love making AI simple, beautiful & powerful ✨"
+<div align="center">
+💡 What I'm Up To
+</div>
+text
+
+🔭 Currently Working  →  EduGenie AI Teacher | Disease Prediction | Computer Vision
+👯 Want to Collab     →  Open-source AI/ML | Student Research | Real-world AI tools
+🤝 Looking For Help   →  Optimizing ML Models | Explainable AI | Full-stack Deployment
+🌱 Currently Learning →  Advanced ML | XAI | Model Deployment | Computer Vision
+💬 Ask Me About       →  Python | ML | Data Science | Streamlit | AI Project Building
+⚡ Fun Fact           →  I turn complex problems into simple AI solutions 🚀
+🛠️ Technology Stack
+<div align="center">
+👨‍💻 Programming Languages
+Python
+C
+C++
+R
+Java
+JavaScript
+
+🤖 AI & Machine Learning
+TensorFlow
+PyTorch
+Keras
+scikit-learn
+OpenCV
+mlflow
+NumPy
+Pandas
+Matplotlib
+Plotly
+SciPy
+
+🌐 Web & Frameworks
+Django
+Flask
+Bootstrap
+HTML5
+CSS3
+
+☁️ Cloud & Deployment
+AWS
+Google Cloud
+Firebase
+Netlify
+Vercel
+Oracle
+
+🎨 Design & Tools
+Figma
+Canva
+Blender
+Adobe
+Power BI
+Unity
+Unreal Engine
+Anaconda
+nVIDIA CUDA
+
+</div>
+🚀 Featured Projects
+<div align="center">
+🎓 EduGenie – AI Teacher	🏥 Disease Prediction System
+An intelligent AI-powered teaching assistant that personalizes education using NLP and ML.	Predicts diseases using patient data with high accuracy ML models.
+Tech: Python, NLP, Streamlit, ML	Tech: Python, Scikit-learn, Pandas, Streamlit
+View Repository →	View Repository →
+👁️ Computer Vision App	📊 Data Science Dashboard
+Real-time object detection and image analysis using deep learning.	Interactive analytics dashboards for real-world datasets.
+Tech: Python, OpenCV, TensorFlow, YOLO	Tech: Python, Plotly, Streamlit, Power BI
+View Repository →	View Repository →
+</div>
+📊 GitHub Analytics
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Thomas0891&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" alt="GitHub Stats"/> <img src="https://nirzak-streak-stats.vercel.app/?user=Thomas0891&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats"/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas0891&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" width="45%" alt="Top Languages"/><br/><!-- CONTRIBUTION GRAPH --><img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomas0891&bg_color=1a1b27&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true" width="100%" alt="Contribution Graph"/></div>
+🏆 GitHub Trophies
+<div align="center">
+Trophies
+
+</div>
+🗺️ Current Learning Roadmap
+text
+
+🤖 Artificial Intelligence
+    ├── Advanced Machine Learning
+    ├── Deep Learning Architectures
+    ├── Natural Language Processing
+    ├── Large Language Models (LLMs)
+    ├── Retrieval-Augmented Generation
+    └── Explainable AI (XAI)
+
+⚙️ Software Engineering
+    ├── REST API Development
+    ├── Backend Architecture
+    ├── Full-Stack AI App Deployment
+    ├── Docker & CI/CD
+    └── System Design
+
+👁️ Computer Vision
+    ├── Object Detection (YOLO)
+    ├── Image Segmentation
+    ├── Medical Image Processing
+    └── Real-time CV Applications
+🎯 Areas of Interest
+<div align="center">
+🤖 Artificial Intelligence	⚙️ Software Engineering	📊 Data Science
+Machine Learning	Full-Stack Development	Data Analysis
+Deep Learning	Backend Engineering	Data Visualization
+Computer Vision	API Development	Predictive Modelling
+NLP & LLMs	System Design	Statistical Learning
+Explainable AI	Model Deployment	Business Intelligence
+</div>
+🔝 Top Contributed Repositories
+<div align="center">
+Top Repos
+
+</div>
+✍️ Dev Quote of the Day
+<div align="center">
+Dev Quote
+
+</div>
+🤝 Let's Connect!
+<div align="center">
+I'm always excited to connect with developers, researchers, and AI enthusiasts!
+
+Whether you want to discuss an AI project, collaborate on open-source, or just exchange ideas — feel free to reach out! 🚀
+
+LinkedIn
+Email
+GitHub
+Instagram
+
+<br/>
+"I love turning complex problems into simple AI solutions 🚀"
+
+— Thomas Joseph
+
+<br/>
+⭐ Thanks for visiting my profile! Explore my repositories and consider starring the projects you find useful! ⭐
+
+<!-- FOOTER WAVE --><img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=100&section=footer" width="100%"/></div> ```
