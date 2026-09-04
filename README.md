@@ -4,80 +4,61 @@
 
 <div align="center">
   <img 
-    src="https://github.com/Thomas0891/Thomas0891/blob/main/bann.png" 
-    alt="Thomas Joseph Banner" 
-    width="100%" 
+    src="https://github.com/Thomas0891/Thomas0891/blob/main/bann.png?raw=true" 
+    alt="Banner" 
+    width="100%"
   />
 </div>
 
 <!-- ============================================================ -->
-<!--              TYPING ANIMATION  (single-line typewriter)      -->
+<!--                   TYPING ANIMATION                           -->
 <!-- ============================================================ -->
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Hi+there%2C+I'm+Thomas+Joseph+%F0%9F%91%8B;AI+%26+Data+Science+Enthusiast+%F0%9F%A7%A0;Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+Developer+%F0%9F%9A%80;Turning+Data+Into+Intelligent+Solutions+%F0%9F%92%A1"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=F85D7F&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=Hi+there%2C+I'm+Thomas+Joseph+%F0%9F%91%8B;AI+%26+Data+Science+Enthusiast+%F0%9F%A7%A0;Machine+Learning+Engineer+%F0%9F%A4%96;Generative+AI+Developer+%F0%9F%9A%80;Turning+Data+Into+Intelligent+Solutions+%F0%9F%92%A1"
     alt="Typing SVG"
   />
 </div>
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                  BADGES ROW                                  -->
-<!-- ============================================================ -->
-
 <div align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=Thomas0891&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=Thomas0891&label=Profile%20Views&color=F85D7F&style=for-the-badge" 
     alt="Profile Views"
   />
   &nbsp;
   <img 
-    src="https://img.shields.io/github/followers/Thomas0891?label=Followers&style=for-the-badge&color=0e75b6&logo=github" 
+    src="https://img.shields.io/github/followers/Thomas0891?label=Followers&style=for-the-badge&color=F85D7F&logo=github" 
     alt="Followers"
   />
-  &nbsp;
-  <a href="https://github.com/Thomas0891?tab=repositories">
-    <img 
-      src="https://img.shields.io/badge/All%20Repos-View%20Here-0e75b6?style=for-the-badge&logo=github" 
-      alt="All Repos"
-    />
-  </a>
 </div>
 
 <br/>
 
 ---
 
-<!-- ============================================================ -->
-<!--                    ABOUT ME                                  -->
-<!-- ============================================================ -->
-
 ## 💫 About Me
 
 <img 
   align="right" 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  width="340" 
+  width="300"
   alt="coding gif"
 />
 
-- 🔭 Working on **EduGenie – AI Teacher**, Disease Prediction Systems & Computer Vision apps  
-- 👯 Looking to collaborate on **open-source AI/ML projects** & real-world Python tools  
-- 🤝 Looking for help with **optimizing ML models** & deploying full-stack AI apps  
-- 🌱 Currently learning **Advanced ML, Explainable AI, Model Deployment & Content Creation**  
-- 💬 Ask me about **Python · Data Science · ML · Deep Learning · NLP · Generative AI**  
-- 📫 Reach me at **thomasjoseph0891@gmail.com**  
-- ⚡ Fun fact: **I love turning real-world problems into intelligent AI solutions 🚀🤖**  
+- 🔭 Working on **EduGenie – AI Teacher**, Disease Prediction & CV apps
+- 👯 Looking to collaborate on **open-source AI/ML projects**
+- 🤝 Seeking help with **optimizing ML models** & full-stack AI deployment
+- 🌱 Learning **Advanced ML, Explainable AI & Content Creation**
+- 💬 Ask me about **Python · Data Science · ML · Deep Learning · NLP · GenAI**
+- 📫 **thomasjoseph0891@gmail.com**
+- ⚡ **I love turning real-world problems into intelligent AI solutions 🚀🤖**
 
 <br clear="right"/>
 
 ---
-
-<!-- ============================================================ -->
-<!--                   SOCIAL LINKS                               -->
-<!-- ============================================================ -->
 
 ## 🌐 Connect With Me
 
@@ -107,10 +88,6 @@
 
 ---
 
-<!-- ============================================================ -->
-<!--                    TECH STACK                                -->
-<!-- ============================================================ -->
-
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
@@ -126,7 +103,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -138,10 +115,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### 🌐 Web · Frameworks
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -160,101 +135,74 @@
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ---
-
-<!-- ============================================================ -->
-<!--                  GITHUB ANALYTICS                            -->
-<!-- ============================================================ -->
 
 ## 📊 GitHub Analytics
 
+<!-- 
+  ⚠️  IMPORTANT: 
+  Replace "YOUR-VERCEL-URL" with your own deployed instance
+  Deploy here: https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
+-->
+
 <div align="center">
 
-  <!-- Row 1: Stats + Languages side by side -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Thomas0891&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" 
-    height="195"
-    alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomas0891&layout=compact&theme=radical&hide_border=true&langs_count=8" 
-    height="195"
-    alt="Top Languages"
-  />
-
-  <br/><br/>
-
-  <!-- Row 2: Streak -->
-  <img 
-    src="https://streak-stats.demolab.com?user=Thomas0891&theme=radical&hide_border=true" 
-    width="700"
-    alt="GitHub Streak"
-  />
-
-  <br/><br/>
-
-  <!-- Row 3: Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Thomas0891&theme=redical&hide_border=true&area=true" 
-    width="100%"
-    alt="Contribution Activity Graph"
-  />
+<img 
+  src="https://YOUR-VERCEL-URL.vercel.app/api?username=Thomas0891&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" 
+  height="180"
+  alt="GitHub Stats"
+/>
+&nbsp;&nbsp;
+<img 
+  src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=Thomas0891&layout=compact&theme=radical&hide_border=true&langs_count=8" 
+  height="180"
+  alt="Top Languages"
+/>
 
 </div>
 
----
+<br/>
 
-<!-- ============================================================ -->
-<!--                  GITHUB TROPHIES                             -->
-<!-- ============================================================ -->
+<div align="center">
+<img 
+  src="https://streak-stats.demolab.com/?user=Thomas0891&theme=radical&hide_border=true&background=141321&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" 
+  width="700"
+  alt="GitHub Streak"
+/>
+</div>
+
+<br/>
+
+<!-- Activity Graph - Using git-profile-summary-cards as backup -->
+<div align="center">
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Thomas0891&bg_color=141321&color=F85D7F&line=F85D7F&point=F8D866&area=true&hide_border=true" 
+  width="100%"
+  alt="Activity Graph"
+/>
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Thomas0891&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" 
-    width="100%"
-    alt="GitHub Trophies"
-  />
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=Thomas0891&theme=radical&no-frame=true&margin-w=4&column=4" 
+  width="100%"
+  alt="Trophies"
+/>
 </div>
 
 ---
-
-<!-- ============================================================ -->
-<!--               SNAKE CONTRIBUTION GRAPH                       -->
-<!-- ============================================================ -->
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Thomas0891/Thomas0891/output/github-snake-dark.svg"
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Thomas0891/Thomas0891/output/github-snake.svg"
-    />
-    <img 
-      alt="Contribution Snake" 
-      src="https://raw.githubusercontent.com/Thomas0891/Thomas0891/output/github-snake.svg" 
-      width="100%"
-    />
-  </picture>
-</div>
-
-> ⚙️ **To enable the snake:** Add `.github/workflows/snake.yml` — see setup below.
+<!-- Shows after you run the GitHub Action workflow -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake contribution graph"/> <img src="https://komarev.com/ghpvc/?username=Thomas0891&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" /> <img src="https://img.shields.io/github/followers/Thomas0891?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" /> </div> <br/>
 
 ---
-
-<!-- ============================================================ -->
-<!--                  FEATURED PROJECTS                           -->
-<!-- ============================================================ -->
 
 ## 🚀 Featured Projects
 
@@ -262,35 +210,15 @@
 
 | 🎯 Project | 📝 Description | 🛠️ Stack |
 |:-----------|:--------------|:---------|
-| 🎓 **EduGenie – AI Teacher** | AI-powered virtual teacher that explains concepts & answers student queries | `Python` `LLMs` `NLP` `Streamlit` |
-| 🩺 **Disease Prediction System** | ML models predicting disease risk from patient data | `Scikit-learn` `Pandas` `Flask` |
-| 👁️ **Computer Vision Suite** | Real-time object detection & recognition apps | `OpenCV` `PyTorch` `YOLO` |
-| 📊 **Data Science Dashboard** | Interactive analytics & visualization platform | `Streamlit` `Plotly` `Pandas` |
-| 🤖 **Generative AI Projects** | LLM-powered intelligent applications | `LangChain` `HuggingFace` `OpenAI` |
+| 🎓 **EduGenie – AI Teacher** | AI-powered virtual teacher | `Python` `LLMs` `NLP` |
+| 🩺 **Disease Prediction** | ML disease risk prediction | `Scikit-learn` `Flask` |
+| 👁️ **Computer Vision Suite** | Real-time object detection | `OpenCV` `PyTorch` |
+| 📊 **Data Dashboard** | Interactive analytics platform | `Streamlit` `Plotly` |
+| 🤖 **Generative AI Projects** | LLM-powered applications | `LangChain` `OpenAI` |
 
 </div>
 
 ---
-
-<!-- ============================================================ -->
-<!--                TOP CONTRIBUTED REPOS                         -->
-<!-- ============================================================ -->
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=Thomas0891&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" 
-    width="100%"
-    alt="Top Contributed Repos"
-  />
-</div>
-
----
-
-<!-- ============================================================ -->
-<!--                    DEV QUOTE                                  -->
-<!-- ============================================================ -->
 
 ## ✍️ Dev Quote
 
@@ -304,22 +232,12 @@
 
 ---
 
-<!-- ============================================================ -->
-<!--                    FOOTER                                     -->
-<!-- ============================================================ -->
-
 <div align="center">
-
-  <br/>
-
-  **⭐ Star my repos if you find them useful!**
-
-  <br/>
-
-  [![Visit Count](https://visitcount.itsvg.in/api?id=Thomas0891&icon=6&color=6)](https://visitcount.itsvg.in)
-
-  <br/>
-
-  <sub>Built with 💙 by Thomas Joseph · <a href="https://gprm.itsvg.in">GPRM</a></sub>
-
+  <b>⭐ Star my repos if you find them useful!</b>
+  <br/><br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Thomas0891&icon=6&color=6"/>
+  </a>
+  <br/><br/>
+  <sub>Built with 💙 by Thomas Joseph</sub>
 </div>
