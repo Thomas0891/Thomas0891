@@ -6,7 +6,7 @@
   <img 
     src="https://github.com/Thomas0891/Thomas0891/blob/main/bann.png?raw=true" 
     alt="Banner" 
-    width="40%"
+    width="80%"
   />
 </div>
 
